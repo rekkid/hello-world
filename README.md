@@ -1,6 +1,10 @@
 hello-world
 ===========
 
+Notepad++ modify codepage to UTF-8 and no BOM.
+
+Git GUI modify encoding to UTF-8
+
 Hi Humans.
 
 修正中文modify
